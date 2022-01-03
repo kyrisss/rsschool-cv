@@ -1,0 +1,123 @@
+.two-column{
+    display: flex;
+    justify-content:left;
+    font-family: "Cabin", sans-serif;
+    font-size: 20px;
+    
+}
+
+.left-column{
+    background-color: rgb(205, 236, 248);
+    width: 42%;
+    
+    
+}
+
+.right-column{
+    background-color: rgb(250, 241, 229);
+    width: 58%;
+    padding: 20px 60px;
+}
+
+.photo{
+    width: 300px;
+    height: 300px;
+    margin: 20px auto;
+    display: block;
+
+}
+
+footer{
+    display: flex;
+    background-color: #505050;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+body{
+    margin: 20px auto;
+    width: 1024px;
+}
+
+.name{
+    text-align: center;
+}
+
+.icon{
+    width: 50px;
+    height: 50px;
+    vertical-align: middle;
+    margin: 5px 10px;
+}
+
+.left-column li{
+    list-style-type: none;
+}
+
+.contacts span{
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+.skills span{
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+h2{
+    display: block;
+    margin: auto;
+    color: white;
+    text-align: center;
+    background-color: #505050;
+    width: 200px;
+    height: 35px;
+}
+
+.languages ul li{
+    margin-left: 30px;
+    font-size: 25px;
+}
+
+.languages p{
+    margin-left: 20px;
+}
+
+.about{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-bottom: solid 1px #505050;
+}
+
+.description{
+    font-size: 24px;
+}
+
+.description-link{
+    margin-top: 20px;
+}
+
+.link-cv{
+    padding-top: 50px;
+    font-size: 24px;
+    color:black;
+}
+
+h3{
+    margin-bottom: 10px;
+}
+
+.code{
+    background-color: rgb(219, 217, 217);
+    padding-left: 150px;
+}
+
+.code-code{
+    padding-left: 100px;
+}
+
+.footer-text{
+    color: white;
+    font-size: 50px;
+}

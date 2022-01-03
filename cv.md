@@ -9,7 +9,7 @@
 
 # About me
 
-I am 27 years old, graduated from BSUIR. I have a great desire to learn, work and develop
+I am 24 years old, graduated from BSUIR. I have a great desire to learn, work and develop
 
 # Skills
 
