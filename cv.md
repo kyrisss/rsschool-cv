@@ -1,25 +1,24 @@
 # Roman Kornev
 
-
-### Contacts
+# Contacts
 
 * Location: Minsk, Belarus
 * Phone: +375297614210
 * Email: kornev.roma@mail.ru
 * GitHub: kyrisss
 
-### About me
+# About me
 
 I am 27 years old, graduated from BSUIR. I have a great desire to learn, work and develop
 
-### Skills
+# Skills
 
 * HTML
 * CSS
 * Javascript
 * Git
 
-### Code Example
+# Code Example
 
 ```
 const func = (num) => {
@@ -30,13 +29,13 @@ const func = (num) => {
 };
 ```
 
-### Expiriense
+# Expiriense
 
-### Education
+# Education
 
 * University: Belarusian State Univeristy of Informatics and Radioelectronics
 * RSSchool
 
-### English
+# English
 
-A1
+A2(Pre-Intermediate)
